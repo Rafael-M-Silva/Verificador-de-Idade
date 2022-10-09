@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(124, 166, 245);
+    font-family: arial;
+    backdrop-filter: bly ;
+}
+header{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
+section{
+    background-color: whitesmoke;
+    width: 400px;
+    /* height: 300px; */
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.404) 3px 3px 10px;
+    margin: auto;
+    padding: 15px;
+}
+footer{
+    text-align: center;
+    color: white;
+}
